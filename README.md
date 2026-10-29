@@ -11,7 +11,7 @@ Each release has an `.apk` file under **Assets**. Builds marked **Pre-release** 
 
 | Build | Version |
 |---|---|
-| Beta | [1.2.0 beta 1](https://github.com/raigon-pawa/siliconriver-release/releases/tag/v1.2.0-beta.1) |
+| Beta | [1.2.0 beta 2](https://github.com/raigon-pawa/siliconriver-release/releases/tag/v1.2.0-beta.2) |
 
 ## Install
 
@@ -19,7 +19,8 @@ Each release has an `.apk` file under **Assets**. Builds marked **Pre-release** 
 2. Open the downloaded file.
 3. If Android asks, allow your browser or Files app to **install unknown apps**, then tap **Install**.
 
-To update, install the newer `.apk` over the old one; you stay signed in.
+Betas update themselves with small fixes in the background (applied the next time you open the app).
+For bigger updates, install the newer `.apk` over the old one; you stay signed in.
 If an older test build won't update ("App not installed"), uninstall it first.
 
 **Requirements:** Android 7.0 or newer.
