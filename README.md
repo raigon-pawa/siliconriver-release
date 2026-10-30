@@ -11,7 +11,7 @@ Each release has an `.apk` file under **Assets**. Builds marked **Pre-release** 
 
 | Build | Version |
 |---|---|
-| Beta | [1.2.0 beta 2](https://github.com/raigon-pawa/siliconriver-release/releases/tag/v1.2.0-beta.2) |
+| Beta | [1.2.0 beta 3](https://github.com/raigon-pawa/siliconriver-release/releases/tag/v1.2.0-beta.3) |
 
 ## Install
 
