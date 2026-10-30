@@ -4,10 +4,10 @@
 
 Show off your rig, rate other people's builds, and climb the leaderboards.
 
-[![Latest release](https://img.shields.io/github/v/release/raigon-pawa/siliconriver-release?include_prereleases&label=latest&color=00F5FF&style=flat-square)](https://github.com/raigon-pawa/siliconriver-release/releases)
-[![Downloads](https://img.shields.io/github/downloads/raigon-pawa/siliconriver-release/total?color=BF00FF&style=flat-square)](https://github.com/raigon-pawa/siliconriver-release/releases)
-![Android 7.0+](https://img.shields.io/badge/Android-7.0%2B-FF006E?style=flat-square&logo=android&logoColor=white)
-[![License: MIT](https://img.shields.io/badge/license-MIT-555?style=flat-square)](LICENSE)
+[![Latest release](https://img.shields.io/github/v/release/raigon-pawa/siliconriver-release?include_prereleases&label=latest&style=for-the-badge&labelColor=18181F&color=0E7490)](https://github.com/raigon-pawa/siliconriver-release/releases)
+[![Downloads](https://img.shields.io/github/downloads/raigon-pawa/siliconriver-release/total?style=for-the-badge&labelColor=18181F&color=7E22CE)](https://github.com/raigon-pawa/siliconriver-release/releases)
+![Android 7.0+](https://img.shields.io/badge/Android-7.0%2B-BE185D?style=for-the-badge&labelColor=18181F&logo=android&logoColor=white)
+[![License: MIT](https://img.shields.io/badge/license-MIT-3F3F46?style=for-the-badge&labelColor=18181F)](LICENSE)
 
 ### [⬇ Download the APK](https://github.com/raigon-pawa/siliconriver-release/releases/download/v1.2.0-beta.3/siliconriver-1.2.0-beta.3.apk)
 
