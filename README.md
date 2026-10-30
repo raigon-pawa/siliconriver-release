@@ -15,10 +15,10 @@ Show off your rig, rate other people's builds, and climb the leaderboards.
 
 <br>
 
-<img src="assets/screenshots/feed.webp" alt="Show off your rig: the home feed" width="24%">
-<img src="assets/screenshots/replies.webp" alt="Get real feedback: a post with replies" width="24%">
-<img src="assets/screenshots/hardware.webp" alt="Find your next part: the hardware catalog" width="24%">
-<img src="assets/screenshots/profile.webp" alt="Specs, front and centre: a profile with system specs" width="24%">
+<img src="assets/screenshots/feed-card.webp" alt="Show off your rig: the home feed" width="24%">
+<img src="assets/screenshots/replies-card.webp" alt="Get real feedback: a post with replies" width="24%">
+<img src="assets/screenshots/hardware-card.webp" alt="Find your next part: the hardware catalog" width="24%">
+<img src="assets/screenshots/profile-card.webp" alt="Specs, front and centre: a profile with system specs" width="24%">
 
 </div>
 
