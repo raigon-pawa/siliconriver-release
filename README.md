@@ -1,10 +1,7 @@
 <div align="center">
 
-<img src="assets/icon.png" alt="SiliconRiver app icon" width="112" height="112">
+<img src="assets/hero.webp" alt="SiliconRiver: the social network for PC builders. Android, free, myrig.app" width="100%">
 
-# SiliconRiver for Android
-
-**The social network for PC builders.**<br>
 Show off your rig, rate other people's builds, and climb the leaderboards.
 
 [![Latest release](https://img.shields.io/github/v/release/raigon-pawa/siliconriver-release?include_prereleases&label=latest&color=00F5FF&style=flat-square)](https://github.com/raigon-pawa/siliconriver-release/releases)
@@ -18,10 +15,10 @@ Show off your rig, rate other people's builds, and climb the leaderboards.
 
 <br>
 
-<img src="assets/screenshots/feed.webp" alt="Home feed with a rig post" width="200">&nbsp;
-<img src="assets/screenshots/explore.webp" alt="Explore: search and trending builds" width="200">&nbsp;
-<img src="assets/screenshots/hardware.webp" alt="Hardware catalog with the featured part" width="200">&nbsp;
-<img src="assets/screenshots/profile.webp" alt="Profile with system specs" width="200">
+<img src="assets/screenshots/feed.webp" alt="Show off your rig: the home feed" width="24%">
+<img src="assets/screenshots/replies.webp" alt="Get real feedback: a post with replies" width="24%">
+<img src="assets/screenshots/hardware.webp" alt="Find your next part: the hardware catalog" width="24%">
+<img src="assets/screenshots/profile.webp" alt="Specs, front and centre: a profile with system specs" width="24%">
 
 </div>
 
