@@ -55,11 +55,11 @@ Show off your rig, rate other people's builds, and climb the leaderboards.
 
 Builds marked **Pre-release** are betas: newest features first, so expect the odd bug.
 
-| Version | Date | Highlights |
-|---|---|---|
-| [**1.2.0 beta 3**](https://github.com/raigon-pawa/siliconriver-release/releases/tag/v1.2.0-beta.3) | Oct 2026 | Push notifications, saved posts, @mentions, edit and pin posts. Since then: follower lists, searchable part dropdowns (as updates) |
-| [1.2.0 beta 2](https://github.com/raigon-pawa/siliconriver-release/releases/tag/v1.2.0-beta.2) | Oct 2026 | Automatic small updates |
-| [1.2.0 beta 1](https://github.com/raigon-pawa/siliconriver-release/releases/tag/v1.2.0-beta.1) | Oct 2026 | First public beta, native Google sign-in |
+| Version | Highlights |
+|---|---|
+| [**1.2.0 beta 3**](https://github.com/raigon-pawa/siliconriver-release/releases/tag/v1.2.0-beta.3) | Push notifications, saved posts, @mentions, edit and pin posts. Since then: follower lists, searchable part dropdowns (as updates) |
+| [1.2.0 beta 2](https://github.com/raigon-pawa/siliconriver-release/releases/tag/v1.2.0-beta.2) | Automatic small updates |
+| [1.2.0 beta 1](https://github.com/raigon-pawa/siliconriver-release/releases/tag/v1.2.0-beta.1) | First public beta, native Google sign-in |
 
 ## FAQ
 
