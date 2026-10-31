@@ -20,19 +20,23 @@ Show off your rig, rate other people's builds, and climb the leaderboards.
 <img src="assets/screenshots/hardware-card.webp" alt="Find your next part: the hardware catalog" width="24%">
 <img src="assets/screenshots/profile-card.webp" alt="Specs, front and centre: a profile with system specs" width="24%">
 
+<br><br>
+
+<img src="assets/retro-teaser.webp" alt="New: the Retro theme. Off-white paper, wood grain and 70s hi-fi colours. Settings, Appearance, Retro." width="100%">
+
 </div>
 
 ## Features
 
-- **Your rigs:** list your parts in the spec sheet (search the dropdowns or type your own) and your primary rig shows on your profile and tags your posts.
+- **Your rigs:** desktops and laptops. List your parts in the spec sheet (search the dropdowns or type your own) and your primary rig shows on your profile and tags your posts.
 - **Feed:** Trending, Latest and Following, with photo galleries, benchmark posts, questions and Rate My Rig.
 - **Reactions and comments:** five community reactions (✨ ⚡ 🔌 🔥 👑) and threaded replies.
 - **Explore:** search builders, parts and posts, and see what's trending.
 - **Hardware:** a catalog of popular parts, with the rigs and posts that use each one.
-- **Benchmarks:** log Cinebench, 3DMark and Geekbench scores and compete on the leaderboards.
+- **Benchmarks:** log Cinebench, 3DMark and Geekbench scores and compete on the leaderboards, with separate rankings for desktops and laptops.
 - **Notifications:** push alerts for reactions, comments, replies, follows and @mentions.
 - **Saved posts, editing and pinning:** bookmark posts, fix typos, pin your best post to your profile.
-- **Dark and light themes**, and sign-in with Google or email.
+- **Dark, light and retro themes** (📻 retro: off-white paper and walnut wood), and sign-in with Google or email.
 
 ## Install
 
@@ -55,7 +59,7 @@ Builds marked **Pre-release** are betas: newest features first, so expect the od
 
 | Version | Highlights |
 |---|---|
-| [**1.3.0 beta 4**](https://github.com/raigon-pawa/siliconriver-release/releases/tag/v1.3.0-beta.4) | In-app updates, searchable part lists in the rig form, follower lists |
+| [**1.3.0 beta 4**](https://github.com/raigon-pawa/siliconriver-release/releases/tag/v1.3.0-beta.4) | In-app updates, searchable part lists in the rig form, follower lists. **Since then:** laptop rigs with their own leaderboards, and the new retro theme |
 | [1.2.0 beta 3](https://github.com/raigon-pawa/siliconriver-release/releases/tag/v1.2.0-beta.3) | Push notifications, saved posts, @mentions, edit and pin posts |
 | [1.2.0 beta 2](https://github.com/raigon-pawa/siliconriver-release/releases/tag/v1.2.0-beta.2) | Automatic small updates |
 | [1.2.0 beta 1](https://github.com/raigon-pawa/siliconriver-release/releases/tag/v1.2.0-beta.1) | First public beta, native Google sign-in |
