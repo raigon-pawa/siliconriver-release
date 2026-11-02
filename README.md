@@ -64,6 +64,16 @@ Builds marked **Pre-release** are betas: newest features first, so expect the od
 | [1.2.0 beta 2](https://github.com/raigon-pawa/siliconriver-release/releases/tag/v1.2.0-beta.2) | Automatic small updates |
 | [1.2.0 beta 1](https://github.com/raigon-pawa/siliconriver-release/releases/tag/v1.2.0-beta.1) | First public beta, native Google sign-in |
 
+## Coming next
+
+What we're working on. No dates; small updates arrive in the app as they're ready.
+
+- **Google Play release**, so you can install and update through the Play Store.
+- **More hardware pages, with photos**, for the parts the community runs.
+- **Faster loading**, on the website and in the app.
+
+Got an idea? [Suggest a feature](https://github.com/raigon-pawa/siliconriver-release/issues/new/choose).
+
 ## FAQ
 
 <details>
