@@ -4,14 +4,16 @@
 
 Show off your rig, rate other people's builds, and climb the leaderboards.
 
-[![Latest release](https://img.shields.io/github/v/release/raigon-pawa/siliconriver-release?include_prereleases&label=latest&style=for-the-badge&labelColor=18181F&color=0E7490)](https://github.com/raigon-pawa/siliconriver-release/releases)
+[![Latest release](https://img.shields.io/github/v/release/raigon-pawa/siliconriver-release?include_prereleases&filter=v*&label=android&style=for-the-badge&labelColor=18181F&color=0E7490)](https://github.com/raigon-pawa/siliconriver-release/releases)
 [![Downloads](https://img.shields.io/github/downloads/raigon-pawa/siliconriver-release/total?style=for-the-badge&labelColor=18181F&color=7E22CE)](https://github.com/raigon-pawa/siliconriver-release/releases)
-![Android 7.0+](https://img.shields.io/badge/Android-7.0%2B-BE185D?style=for-the-badge&labelColor=18181F&logo=android&logoColor=white)
+![Android 8.0+](https://img.shields.io/badge/Android-8.0%2B-BE185D?style=for-the-badge&labelColor=18181F&logo=android&logoColor=white)
 [![License: MIT](https://img.shields.io/badge/license-MIT-3F3F46?style=for-the-badge&labelColor=18181F)](LICENSE)
 
 ### [⬇ Download the APK](https://github.com/raigon-pawa/siliconriver-release/releases/download/v1.4.1-beta.7/siliconriver-1.4.1-beta.7.apk)
 
 <sub>1.4.1 beta 7 · [All releases](https://github.com/raigon-pawa/siliconriver-release/releases) · or use it in your browser at [myrig.app](https://myrig.app)</sub>
+
+<sub><b>New:</b> [the PC app for Windows and Linux](#siliconriver-for-pc)</sub>
 
 <br>
 
@@ -38,7 +40,7 @@ Show off your rig, rate other people's builds, and climb the leaderboards.
 - **Saved posts, editing and pinning:** bookmark posts, fix typos, pin your best post to your profile.
 - **Dark, light and retro themes** (📻 retro: off-white paper and walnut wood), and sign-in with Google or email.
 
-## Install
+## Install on Android
 
 1. On your Android phone, tap **[Download the APK](https://github.com/raigon-pawa/siliconriver-release/releases/download/v1.4.1-beta.7/siliconriver-1.4.1-beta.7.apk)**.
 2. Open the downloaded file.
@@ -53,9 +55,56 @@ Show off your rig, rate other people's builds, and climb the leaderboards.
 - On beta 3 or older? Download the latest beta above once and install it over your current app; you stay signed in.
 - If an older test build won't update ("App not installed"), uninstall it first.
 
+## SiliconRiver for PC
+
+A native app for Windows and Linux. Same account, same feed, in its own window.
+
+<div align="center">
+
+<img src="assets/screenshots/pc-feed.webp" alt="SiliconRiver for PC: the home feed with a Rate My Rig post, in the dark theme" width="100%">
+
+### [⬇ Windows](https://github.com/raigon-pawa/siliconriver-release/releases/download/desktop-v0.2.0/siliconriver-windows-x86_64.exe) · [⬇ Linux](https://github.com/raigon-pawa/siliconriver-release/releases/download/desktop-v0.2.0/siliconriver-linux-x86_64)
+
+<sub>0.2.0 beta · 64-bit · Windows 10 or newer · Linux: Ubuntu 22.04, Debian 12 or newer (glibc 2.35+)</sub>
+
+</div>
+
+- **What's in it:** the Trending, Latest and Following feeds, posts with reactions and threaded replies, Explore, the Hardware catalog, leaderboards, notifications and profiles.
+- **Light, dark and retro themes**, and sign-in with Google or email.
+- **Not here yet:** photo uploads, polls, and editing your rigs and profile. Those open the website for now.
+
+### Install on Windows
+
+1. Download **[siliconriver-windows-x86_64.exe](https://github.com/raigon-pawa/siliconriver-release/releases/download/desktop-v0.2.0/siliconriver-windows-x86_64.exe)**. It's the whole app in one file; there's no installer.
+2. Move it to a folder of your own, such as Documents or the Desktop (not Program Files), so it can update itself.
+3. Double-click it. The app isn't code-signed yet, so Windows may show **"Windows protected your PC"**: click **More info**, then **Run anyway**.
+
+### Install on Linux
+
+Download **[siliconriver-linux-x86_64](https://github.com/raigon-pawa/siliconriver-release/releases/download/desktop-v0.2.0/siliconriver-linux-x86_64)**, then:
+
+```sh
+chmod +x siliconriver-linux-x86_64
+./siliconriver-linux-x86_64
+```
+
+Keep it somewhere you can write to, such as `~/.local/bin`, so it can update itself.
+
+### Updates on PC
+
+The app looks for a new version each time it starts, downloads it, checks it against the SHA-256 published here, and restarts into it. You can also check in Settings → About.
+
 ## Releases
 
 Builds marked **Pre-release** are betas: newest features first, so expect the odd bug.
+
+**PC (Windows and Linux)**
+
+| Version | Highlights |
+|---|---|
+| [**0.2.0**](https://github.com/raigon-pawa/siliconriver-release/releases/tag/desktop-v0.2.0) | First PC release, for Windows and Linux: feeds, posts and replies, Explore, Hardware, leaderboards, three themes, updates itself |
+
+**Android**
 
 | Version | Highlights |
 |---|---|
@@ -106,18 +155,18 @@ Yes. Sign in with the same Google account or email and everything is there: post
 <details>
 <summary><b>Check the download (optional)</b></summary>
 
-Compare the APK's SHA-256 with the one in the release notes:
+Compare the file's SHA-256 with the one in the release notes (works for the APK and the PC downloads):
 
 ```sh
-sha256sum siliconriver-*.apk                            # Linux
-shasum -a 256 siliconriver-*.apk                        # macOS
-certutil -hashfile siliconriver-<version>.apk SHA256    # Windows
+sha256sum siliconriver-*                                # Linux
+shasum -a 256 siliconriver-*                            # macOS
+certutil -hashfile <downloaded file> SHA256             # Windows
 ```
 </details>
 
 ## Feedback
 
-Found a bug or have an idea? [Open an issue](https://github.com/raigon-pawa/siliconriver-release/issues/new/choose). For bugs, include your phone model, Android version and the app version (Profile → Settings).
+Found a bug or have an idea? [Open an issue](https://github.com/raigon-pawa/siliconriver-release/issues/new/choose). For bugs, include your phone model, Android version and the app version (Profile → Settings). For the PC app, include your operating system and the version from Settings → About.
 
 ## License
 
