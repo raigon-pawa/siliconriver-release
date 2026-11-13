@@ -63,32 +63,32 @@ A native app for Windows and Linux. Same account, same feed, in its own window.
 
 <img src="assets/screenshots/pc-feed.webp" alt="SiliconRiver for PC: the home feed with a Rate My Rig post, in the dark theme" width="100%">
 
-### [⬇ Windows](https://github.com/raigon-pawa/siliconriver-release/releases/download/desktop-v0.3.0/siliconriver-windows-x86_64.exe) · [⬇ Linux](https://github.com/raigon-pawa/siliconriver-release/releases/download/desktop-v0.3.0/siliconriver-linux-x86_64)
+### [⬇ Windows](https://github.com/raigon-pawa/siliconriver-release/releases/download/desktop-v0.4.0/siliconriver-windows-x86_64.exe) · [⬇ Linux](https://github.com/raigon-pawa/siliconriver-release/releases/download/desktop-v0.4.0/siliconriver-linux-x86_64)
 
-<sub>0.3.0 beta · 64-bit · Windows 10 or newer · Linux: Ubuntu 22.04, Debian 12 or newer (glibc 2.35+)</sub>
+<sub>0.4.0 beta · 64-bit · Windows 10 or newer · Linux: Ubuntu 22.04, Debian 12 or newer (glibc 2.35+)</sub>
 
 </div>
 
-- **What's in it:** the Trending, Latest and Following feeds, posts with reactions and threaded replies, Explore, the Hardware catalog, leaderboards, notifications and profiles.
+- **What's in it:** the Trending, Latest and Following feeds, posts with reactions and threaded replies, Explore, the Hardware catalog, leaderboards, notifications and profiles, plus a Performance page with live readings from your own PC.
 - **Light, dark and retro themes**, and sign-in with Google or email.
 - **Not here yet:** photo uploads, polls, and editing your rigs and profile. Those open the website for now.
 
 ### Install on Windows
 
-1. Download **[siliconriver-windows-x86_64.exe](https://github.com/raigon-pawa/siliconriver-release/releases/download/desktop-v0.3.0/siliconriver-windows-x86_64.exe)**. It's the whole app in one file; there's no installer.
-2. Move it to a folder of your own, such as Documents or the Desktop (not Program Files), so it can update itself.
-3. Double-click it. The app isn't code-signed yet, so Windows may show **"Windows protected your PC"**: click **More info**, then **Run anyway**.
+1. Download **[siliconriver-windows-x86_64.exe](https://github.com/raigon-pawa/siliconriver-release/releases/download/desktop-v0.4.0/siliconriver-windows-x86_64.exe)**. It's the whole app in one file.
+2. Double-click it. The app isn't code-signed yet, so Windows may show **"Windows protected your PC"**: click **More info**, then **Run anyway**.
+3. In the app, open **Settings** and choose **Add to Start menu**. SiliconRiver now opens from the Start menu, and the downloaded file can be deleted.
 
 ### Install on Linux
 
-Download **[siliconriver-linux-x86_64](https://github.com/raigon-pawa/siliconriver-release/releases/download/desktop-v0.3.0/siliconriver-linux-x86_64)**, then:
+Download **[siliconriver-linux-x86_64](https://github.com/raigon-pawa/siliconriver-release/releases/download/desktop-v0.4.0/siliconriver-linux-x86_64)**, then:
 
 ```sh
 chmod +x siliconriver-linux-x86_64
-./siliconriver-linux-x86_64
+./siliconriver-linux-x86_64 --install
 ```
 
-Keep it somewhere you can write to, such as `~/.local/bin`, so it can update itself.
+SiliconRiver is now in your app launcher, with its icon, and the downloaded file can be deleted. It installs for your user only, into `~/.local`, so it needs no password and can update itself.
 
 ### Updates on PC
 
@@ -102,6 +102,7 @@ Builds marked **Pre-release** are betas: newest features first, so expect the od
 
 | Version | Highlights |
 |---|---|
+| [**0.4.0**](https://github.com/raigon-pawa/siliconriver-release/releases/tag/desktop-v0.4.0) | Installs itself: "Add to Start menu" on Windows, "Add to app launcher" or `--install` on Linux, with its icon and no administrator password |
 | [**0.3.0**](https://github.com/raigon-pawa/siliconriver-release/releases/tag/desktop-v0.3.0) | Performance page: live processor, NVIDIA graphics card and memory readings from your own PC, with a minute of history. Nothing is uploaded |
 | [**0.2.0**](https://github.com/raigon-pawa/siliconriver-release/releases/tag/desktop-v0.2.0) | First PC release, for Windows and Linux: feeds, posts and replies, Explore, Hardware, leaderboards, three themes, updates itself |
 
