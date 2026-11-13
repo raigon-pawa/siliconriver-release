@@ -9,9 +9,9 @@ Show off your rig, rate other people's builds, and climb the leaderboards.
 ![Android 8.0+](https://img.shields.io/badge/Android-8.0%2B-BE185D?style=for-the-badge&labelColor=18181F&logo=android&logoColor=white)
 [![License: MIT](https://img.shields.io/badge/license-MIT-3F3F46?style=for-the-badge&labelColor=18181F)](LICENSE)
 
-### [⬇ Download the APK](https://github.com/raigon-pawa/siliconriver-release/releases/download/v1.4.1-beta.7/siliconriver-1.4.1-beta.7.apk)
+### [⬇ Download the APK](https://github.com/raigon-pawa/siliconriver-release/releases/download/v1.5.0-beta.8/siliconriver-1.5.0-beta.8.apk)
 
-<sub>1.4.1 beta 7 · [All releases](https://github.com/raigon-pawa/siliconriver-release/releases) · or use it in your browser at [myrig.app](https://myrig.app)</sub>
+<sub>1.5.0 beta 8 · [All releases](https://github.com/raigon-pawa/siliconriver-release/releases) · or use it in your browser at [myrig.app](https://myrig.app)</sub>
 
 <sub><b>New:</b> [the PC app for Windows and Linux](#siliconriver-for-pc)</sub>
 
@@ -42,7 +42,7 @@ Show off your rig, rate other people's builds, and climb the leaderboards.
 
 ## Install on Android
 
-1. On your Android phone, tap **[Download the APK](https://github.com/raigon-pawa/siliconriver-release/releases/download/v1.4.1-beta.7/siliconriver-1.4.1-beta.7.apk)**.
+1. On your Android phone, tap **[Download the APK](https://github.com/raigon-pawa/siliconriver-release/releases/download/v1.5.0-beta.8/siliconriver-1.5.0-beta.8.apk)**.
 2. Open the downloaded file.
 3. If Android asks, allow your browser or Files app to **install unknown apps**, then tap **Install**.
 
@@ -51,7 +51,7 @@ Show off your rig, rate other people's builds, and climb the leaderboards.
 ### Updates
 
 - **New versions come to you.** From 1.3.0 beta 4, the app tells you when a new version is out: tap **Update** and it downloads and installs it. Check any time in Profile → Settings → Version. The first time, Android asks you to allow installs from SiliconRiver.
-- **Small fixes arrive silently** in the background and apply the next time you open the app. Settings shows the current patch, e.g. `1.4.1-beta.7 (patch 1)`.
+- **Small fixes arrive silently** in the background and apply the next time you open the app. Settings shows the current patch, e.g. `1.5.0-beta.8 (patch 1)`.
 - On beta 3 or older? Download the latest beta above once and install it over your current app; you stay signed in.
 - If an older test build won't update ("App not installed"), uninstall it first.
 
@@ -108,7 +108,8 @@ Builds marked **Pre-release** are betas: newest features first, so expect the od
 
 | Version | Highlights |
 |---|---|
-| [**1.4.1 beta 7**](https://github.com/raigon-pawa/siliconriver-release/releases/tag/v1.4.1-beta.7) | Under-the-hood upgrades: steadier sharing and crash reporting. Needs Android 8.0 or newer |
+| [**1.5.0 beta 8**](https://github.com/raigon-pawa/siliconriver-release/releases/tag/v1.5.0-beta.8) | New copper look in dark and light, builder stats on your profile, two-factor setup in Settings, alerts that refresh on their own, crash fix |
+| [1.4.1 beta 7](https://github.com/raigon-pawa/siliconriver-release/releases/tag/v1.4.1-beta.7) | Under-the-hood upgrades: steadier sharing and crash reporting. Needs Android 8.0 or newer |
 | [1.4.0 beta 6](https://github.com/raigon-pawa/siliconriver-release/releases/tag/v1.4.0-beta.6) | Two-factor sign-in, myrig.app links open in the app, share photos into the app, rig pages, pure black theme, works offline, polls and quote posts |
 | [1.3.0 beta 5](https://github.com/raigon-pawa/siliconriver-release/releases/tag/v1.3.0-beta.5) | Fewer profile loading errors, easier-to-read light theme, bigger tap targets, logos that match the website |
 | [1.3.0 beta 4](https://github.com/raigon-pawa/siliconriver-release/releases/tag/v1.3.0-beta.4) | In-app updates, searchable part lists in the rig form, follower lists. **Since then:** laptop rigs with their own leaderboards, and the new retro theme |
