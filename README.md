@@ -9,9 +9,9 @@ Show off your rig, rate other people's builds, and climb the leaderboards.
 ![Android 8.0+](https://img.shields.io/badge/Android-8.0%2B-BE185D?style=for-the-badge&labelColor=18181F&logo=android&logoColor=white)
 [![License: MIT](https://img.shields.io/badge/license-MIT-3F3F46?style=for-the-badge&labelColor=18181F)](LICENSE)
 
-### [⬇ Download the APK](https://github.com/raigon-pawa/siliconriver-release/releases/download/v1.5.0-beta.8/siliconriver-1.5.0-beta.8.apk)
+### [⬇ Download the APK](https://github.com/raigon-pawa/siliconriver-release/releases/download/v1.6.0-beta.9/siliconriver-1.6.0-beta.9.apk)
 
-<sub>1.5.0 beta 8 · [All releases](https://github.com/raigon-pawa/siliconriver-release/releases) · or use it in your browser at [myrig.app](https://myrig.app)</sub>
+<sub>1.6.0 beta 9 · [All releases](https://github.com/raigon-pawa/siliconriver-release/releases) · or use it in your browser at [myrig.app](https://myrig.app)</sub>
 
 <sub><b>New:</b> [the PC app for Windows and Linux](#siliconriver-for-pc)</sub>
 
@@ -42,7 +42,7 @@ Show off your rig, rate other people's builds, and climb the leaderboards.
 
 ## Install on Android
 
-1. On your Android phone, tap **[Download the APK](https://github.com/raigon-pawa/siliconriver-release/releases/download/v1.5.0-beta.8/siliconriver-1.5.0-beta.8.apk)**.
+1. On your Android phone, tap **[Download the APK](https://github.com/raigon-pawa/siliconriver-release/releases/download/v1.6.0-beta.9/siliconriver-1.6.0-beta.9.apk)**.
 2. Open the downloaded file.
 3. If Android asks, allow your browser or Files app to **install unknown apps**, then tap **Install**.
 
@@ -51,7 +51,7 @@ Show off your rig, rate other people's builds, and climb the leaderboards.
 ### Updates
 
 - **New versions come to you.** From 1.3.0 beta 4, the app tells you when a new version is out: tap **Update** and it downloads and installs it. Check any time in Profile → Settings → Version. The first time, Android asks you to allow installs from SiliconRiver.
-- **Small fixes arrive silently** in the background and apply the next time you open the app. Settings shows the current patch, e.g. `1.5.0-beta.8 (patch 1)`.
+- **Small fixes arrive silently** in the background and apply the next time you open the app. Settings shows the current patch, e.g. `1.6.0-beta.9 (patch 1)`.
 - On beta 3 or older? Download the latest beta above once and install it over your current app; you stay signed in.
 - If an older test build won't update ("App not installed"), uninstall it first.
 
@@ -63,25 +63,25 @@ A native app for Windows and Linux. Same account, same feed, in its own window.
 
 <img src="assets/screenshots/pc-feed.webp" alt="SiliconRiver for PC: the home feed with a Rate My Rig post, in the dark theme" width="100%">
 
-### [⬇ Windows](https://github.com/raigon-pawa/siliconriver-release/releases/download/desktop-v0.4.0/siliconriver-windows-x86_64.exe) · [⬇ Linux](https://github.com/raigon-pawa/siliconriver-release/releases/download/desktop-v0.4.0/siliconriver-linux-x86_64)
+### [⬇ Windows](https://github.com/raigon-pawa/siliconriver-release/releases/download/desktop-v0.5.0/siliconriver-windows-x86_64.exe) · [⬇ Linux](https://github.com/raigon-pawa/siliconriver-release/releases/download/desktop-v0.5.0/siliconriver-linux-x86_64)
 
-<sub>0.4.0 beta · 64-bit · Windows 10 or newer · Linux: Ubuntu 22.04, Debian 12 or newer (glibc 2.35+)</sub>
+<sub>0.5.0 beta · 64-bit · Windows 10 or newer · Linux: Ubuntu 22.04, Debian 12 or newer (glibc 2.35+)</sub>
 
 </div>
 
-- **What's in it:** the Trending, Latest and Following feeds, posts with reactions and threaded replies, Explore, the Hardware catalog, leaderboards, notifications and profiles, plus a Performance page with live readings from your own PC.
+- **What's in it:** the Trending, Latest and Following feeds, posts with reactions and threaded replies, Explore, the Hardware catalog, leaderboards, notifications and profiles, plus a Performance page with live readings from your own PC, which you can also watch from the Android app.
 - **Light, dark and retro themes**, and sign-in with Google or email.
 - **Not here yet:** photo uploads, polls, and editing your rigs and profile. Those open the website for now.
 
 ### Install on Windows
 
-1. Download **[siliconriver-windows-x86_64.exe](https://github.com/raigon-pawa/siliconriver-release/releases/download/desktop-v0.4.0/siliconriver-windows-x86_64.exe)**. It's the whole app in one file.
+1. Download **[siliconriver-windows-x86_64.exe](https://github.com/raigon-pawa/siliconriver-release/releases/download/desktop-v0.5.0/siliconriver-windows-x86_64.exe)**. It's the whole app in one file.
 2. Double-click it. The app isn't code-signed yet, so Windows may show **"Windows protected your PC"**: click **More info**, then **Run anyway**.
 3. In the app, open **Settings** and choose **Add to Start menu**. SiliconRiver now opens from the Start menu, and the downloaded file can be deleted.
 
 ### Install on Linux
 
-Download **[siliconriver-linux-x86_64](https://github.com/raigon-pawa/siliconriver-release/releases/download/desktop-v0.4.0/siliconriver-linux-x86_64)**, then:
+Download **[siliconriver-linux-x86_64](https://github.com/raigon-pawa/siliconriver-release/releases/download/desktop-v0.5.0/siliconriver-linux-x86_64)**, then:
 
 ```sh
 chmod +x siliconriver-linux-x86_64
@@ -102,6 +102,7 @@ Builds marked **Pre-release** are betas: newest features first, so expect the od
 
 | Version | Highlights |
 |---|---|
+| [**0.5.0**](https://github.com/raigon-pawa/siliconriver-release/releases/tag/desktop-v0.5.0) | Show on my phone: a switch on the Performance page sends your live readings to your account so the Android app (1.6.0 beta 9 or newer) can show them. Off until you turn it on, and only you can see them |
 | [**0.4.0**](https://github.com/raigon-pawa/siliconriver-release/releases/tag/desktop-v0.4.0) | Installs itself: "Add to Start menu" on Windows, "Add to app launcher" or `--install` on Linux, with its icon and no administrator password |
 | [**0.3.0**](https://github.com/raigon-pawa/siliconriver-release/releases/tag/desktop-v0.3.0) | Performance page: live processor, NVIDIA graphics card and memory readings from your own PC, with a minute of history. Nothing is uploaded |
 | [**0.2.0**](https://github.com/raigon-pawa/siliconriver-release/releases/tag/desktop-v0.2.0) | First PC release, for Windows and Linux: feeds, posts and replies, Explore, Hardware, leaderboards, three themes, updates itself |
@@ -110,7 +111,8 @@ Builds marked **Pre-release** are betas: newest features first, so expect the od
 
 | Version | Highlights |
 |---|---|
-| [**1.5.0 beta 8**](https://github.com/raigon-pawa/siliconriver-release/releases/tag/v1.5.0-beta.8) | New copper look in dark and light, builder stats on your profile, two-factor setup in Settings, alerts that refresh on their own, crash fix |
+| [**1.6.0 beta 9**](https://github.com/raigon-pawa/siliconriver-release/releases/tag/v1.6.0-beta.9) | My PC, live: watch your computer's processor, graphics card and memory readings from Explore, sent by SiliconRiver for PC 0.5.0 or newer |
+| [1.5.0 beta 8](https://github.com/raigon-pawa/siliconriver-release/releases/tag/v1.5.0-beta.8) | New copper look in dark and light, builder stats on your profile, two-factor setup in Settings, alerts that refresh on their own, crash fix |
 | [1.4.1 beta 7](https://github.com/raigon-pawa/siliconriver-release/releases/tag/v1.4.1-beta.7) | Under-the-hood upgrades: steadier sharing and crash reporting. Needs Android 8.0 or newer |
 | [1.4.0 beta 6](https://github.com/raigon-pawa/siliconriver-release/releases/tag/v1.4.0-beta.6) | Two-factor sign-in, myrig.app links open in the app, share photos into the app, rig pages, pure black theme, works offline, polls and quote posts |
 | [1.3.0 beta 5](https://github.com/raigon-pawa/siliconriver-release/releases/tag/v1.3.0-beta.5) | Fewer profile loading errors, easier-to-read light theme, bigger tap targets, logos that match the website |
